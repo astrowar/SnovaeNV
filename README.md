@@ -1,0 +1,2 @@
+# SnovaeNV
+SuperNovae in Cuda
